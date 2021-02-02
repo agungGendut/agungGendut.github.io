@@ -5,7 +5,7 @@
 ### Mobile Application Development
 
 [Ganesha operation bimbel online](https://github.com/agungGendut/go_bimbel_online )
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/New aplikasi hp_Coklat.jpg?raw=true"/>
 
 ---
 [Iowork Aplication](https://github.com/agungGendut/iowork)
