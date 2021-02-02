@@ -9,7 +9,7 @@
 
 ---
 [Iowork Aplication](https://github.com/agungGendut/iowork)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot_20210202-132935.png?raw=true"/>
 
 ---
 [GMM Logistic Aplication](https://github.com/agungGendut/GMMLogistic/tree/master/logistikapp)
