@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Ganesha operation bimbel online](/sample_page)
+[Ganesha operation bimbel online](https://github.com/agungGendut/go_bimbel_online )
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
